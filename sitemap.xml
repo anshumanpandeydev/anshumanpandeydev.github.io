@@ -31,6 +31,11 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://anshumanpandeydev.github.io/work/bazaarbandhu/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://anshumanpandeydev.github.io/work/formvault/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -42,11 +47,6 @@
 </url>
 <url>
 <loc>https://anshumanpandeydev.github.io/work/sales-agent/</loc>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://anshumanpandeydev.github.io/work/bazaarbandhu/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
